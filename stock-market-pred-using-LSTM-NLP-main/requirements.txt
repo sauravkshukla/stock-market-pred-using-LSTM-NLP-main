@@ -1,0 +1,9 @@
+
+streamlit>=1.0
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+nltk
+textblob
